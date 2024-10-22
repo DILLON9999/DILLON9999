@@ -1,4 +1,4 @@
-## Hi there 👋
+## Dillon Timmer -- Backend Software Development & Data Science/Analytics
 
 This will be updated soon...
 
