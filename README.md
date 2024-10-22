@@ -1,6 +1,9 @@
 ## Dillon Timmer -- Backend Software Development & Data Science/Analytics
 
-This will be updated soon...
+- Current Senior at the University of San Diego
+- Graduting in May 2025
+- B.S. Computer Science; Concentration in Data Science and Artificial Intelligence
+- Cognitive Science Minor
 
 <!--
 **DILLON9999/DILLON9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
